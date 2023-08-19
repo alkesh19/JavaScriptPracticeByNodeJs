@@ -1,0 +1,15 @@
+{
+  "name": "javascriptpracticebynodejs",
+  "version": "1.0.0",
+  "description": "-- Created repo on git hub to commit practices done on Java script using node JS.",
+  "main": "anagram.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test-anagram": "npx jest ./test/anagram.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
