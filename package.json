@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test-anagram": "npx jest ./test/anagram.test.js"
+    "test-anagram": "npx jest ./test/anagram.test.js",
+    "test-expenditure-analysis": "npx jest ./test/expenditure-analysis.test.js"
   },
   "keywords": [],
   "author": "",
